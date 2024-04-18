@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  <img src="../TNT Banner.png" alt="Team Try and Test">
+  <img src="https://github.com/Try-N-Test/.github/blob/main/TNT%20Banner.png?raw=true" alt="Team Try and Test">
   
   <h1 align="center">Try N Test</h1>
   <i>Exploring, Innovating, Perfecting</i><br>
