@@ -20,7 +20,7 @@ We are a dynamic team passionate about innovation and coding excellence. With a 
 - DUHacks 3.0
 - HackQuest 2024
 
-Next on the line: HackFest 24
+Next on the line: Hack-Wars
 
 ### Team Members
 
@@ -36,9 +36,6 @@ Next on the line: HackFest 24
    
 2. **The Coffee Study Co** (DUHacks 3.0)
    - A web app for students enthusiasts to discover and share their knowledge.
-   
-3. **The First Aid** (HackQuest 2024)
-   - A comprehensive emergency assistance web app.
 
 ### Contact Us
 
