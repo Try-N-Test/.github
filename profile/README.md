@@ -14,13 +14,14 @@ Exploring the unknown, testing the limits, and embracing the journey of innovati
 
 We are a dynamic team passionate about innovation and coding excellence. With a knack for problem-solving and a drive to push boundaries, we participate in hackathons to turn our ideas into reality.
 
-### Hackathons Participated
+### Competitions Participated
 
 - Hackout 2023
 - DUHacks 3.0
+- SheBoss Ideathon
 - HackQuest 2024
+- HackWithChandigarh 2024
 
-Next on the line: Hack-Wars
 
 ### Team Members
 
@@ -28,6 +29,7 @@ Next on the line: Hack-Wars
 - [Isheta Aggarwal](https://github.com/Isheta20) - UI/UX Designer & Content Writer
 - [Rajat Srivastava](https://github.com/Rajat4279) - Backend Developer
 - [Kislay Gupta](https://github.com/kislay-gupta) - Front End Developer
+- [Ankit Panigrahi](https://github.com/PanigrahiAnkit) - Front End & AI/ML Developer
 
 ### Projects Implemented
 
@@ -36,6 +38,9 @@ Next on the line: Hack-Wars
    
 2. **The Coffee Study Co** (DUHacks 3.0)
    - A web app for students enthusiasts to discover and share their knowledge.
+  
+3. **The First Aid** (HackWithChandigarh 2024)
+   - Healthcare application with digital consent mechanism.
 
 ### Contact Us
 
